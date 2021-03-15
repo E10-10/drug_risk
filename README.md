@@ -9,7 +9,10 @@ Data: https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 ## Environment
 
 Use the [requirements](requirements.txt) file in this repo to create a new environment.
-``` make setup ```
+
+
+``` 
+make setup ```
 
 or
 
