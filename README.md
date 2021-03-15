@@ -12,11 +12,11 @@ Use the [requirements](requirements.txt) file in this repo to create a new envir
 
 
 ``` 
-make setup ```
+make setup 
 
 or
 
-```BASH
+#BASH
 pyenv local 3.8.5
 python -m venv .venv
 source .venv/bin/activate
